@@ -36,6 +36,7 @@
   * Per-project customizations (if any) marked with Lab4.
  -->
 
+<!--suppress XmlHighlighting -->
 <module name="Checker">
   <!--
         If you set the basedir property below, then all reported file
